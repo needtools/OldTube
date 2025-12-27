@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">OldTube</string>
+    <string name="history_title">Мій OldTube. Історія переглядів.</string>
+    <string name="history_count">Переглянуто відео: %1$d</string>
+    <string name="history_hint">Клікнути — запустити відео, натиснути — видалити відео.</string>
+    <string name="history_empty">Історія порожня</string>
+    <string name="video_loading">Завантаження ...</string>
+
+    <string name="desc_history_button">Відкрити історію</string>
+    <string name="desc_avatar">Аватар користувача</string>
+</resources>
