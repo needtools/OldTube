@@ -1,6 +1,35 @@
 # OldTube 📺
 
-Простий та швидкий клієнт YouTube для пристроїв на базі Android (підтримка від Android 5.0+). Створений з використанням Jetpack Compose та WebView.
+A simple and fast YouTube client for Android devices (supporting Android 5.0+). Built with Jetpack Compose and WebView.
+
+✨ Features
+Autoplay Automation: Videos start playing automatically without extra clicks.
+
+Smart History:
+Stores up to 100 recent views.
+Automatic video title updates via WebChromeClient.
+Quick removal: Long-press a list item to delete it from history.
+Localization: Full support for Ukrainian (via strings.xml).
+NOTE: Some features of the modern YouTube player may not be available.
+
+🛠 Tech Stack
+Kotlin & Jetpack Compose
+WebView (with JavaScript/CSS injections)
+Coil: For asynchronous video thumbnail loading.
+SharedPreferences: For reliable storage of watch history.
+
+🚀 How to Use
+Launch the app — the main video will open.
+Tap the red list button to open your history.
+Single click on a video in history — starts playback.
+Long click — removes the video from your list.
+
+  <p align="center">
+  <img src="screen.jpg" width="400">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="history.jpg" width="400">
+</p>
+
+<b>Простий та швидкий клієнт YouTube для пристроїв на базі Android (підтримка від Android 5.0+). Створений з використанням Jetpack Compose та WebView.</b>
 
 ## ✨ Особливості
 - **Автоматизація відтворення**: Відео запускається автоматично без зайвих кліків.
