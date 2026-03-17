@@ -24,6 +24,8 @@ Tap the red list button to open your history.
 Single click on a video in history — starts playback.
 Long click — removes the video from your list.
 
+You can find the ready-to-install `.apk` file in the [Releases](https://github.com/needtools/OldTube/releases) section.
+
   <p align="center">
   <img src="screen.jpg" width="400">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="history.jpg" width="400">
@@ -51,3 +53,5 @@ Long click — removes the video from your list.
 2. Натисніть червону кнопку зі списком, щоб відкрити історію.
 3. **Клік** по відео в історії — запуск перегляду.
 4. **Довгий клік** — видалення відео з вашого списку.
+
+   Ви можете завантажити файл `.apk` тут [Releases](https://github.com/needtools/OldTube/releases).
