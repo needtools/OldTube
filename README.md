@@ -24,6 +24,8 @@ Tap the red list button to open your history.
 Single click on a video in history — starts playback.
 Long click — removes the video from your list.
 
+YouTube video https://youtu.be/F0WR38bA2j0
+
 You can find the ready-to-install `.apk` file in the [Releases](https://github.com/needtools/OldTube/releases) section.
 
 v2.0.0 - Fullscreen & Tablet Support.
@@ -61,6 +63,8 @@ What's New
 2. Натисніть червону кнопку зі списком, щоб відкрити історію.
 3. **Клік** по відео в історії — запуск перегляду.
 4. **Довгий клік** — видалення відео з вашого списку.
+
+   YouTube відео https://youtu.be/F0WR38bA2j0
 
    Ви можете завантажити файл `.apk` тут [Releases](https://github.com/needtools/OldTube/releases).
    
