@@ -26,6 +26,14 @@ Long click — removes the video from your list.
 
 You can find the ready-to-install `.apk` file in the [Releases](https://github.com/needtools/OldTube/releases) section.
 
+v2.0.0 - Fullscreen & Tablet Support.
+What's New
+📺 Fullscreen Mode: Added a dedicated toggle for immersive video viewing.
+🛠 System UI Control: Hidden status bars and navigation for a true cinema experience.
+✨ Improved UX: New dynamic Floating Action Button with Material Icons.
+⚙️ Under the hood: Integrated WindowInsetsControllerCompat and JS injection for video scaling.
+Що нового
+
   <p align="center">
   <img src="screen.jpg" width="400">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="history.jpg" width="400">
@@ -55,3 +63,10 @@ You can find the ready-to-install `.apk` file in the [Releases](https://github.c
 4. **Довгий клік** — видалення відео з вашого списку.
 
    Ви можете завантажити файл `.apk` тут [Releases](https://github.com/needtools/OldTube/releases).
+   
+   v2.0.0 - Повноекранний режим & Підтримка планшетів.
+   Що нового
+📺 Поноекранний режим Додано спеціальний перемикач для перегляду відео в повноекранному форматі.
+🛠 **Керування системним інтерфейсом користувача: Приховані рядки стану пристрою.
+✨ Покращений UX: Нова динамічна плаваюча кнопка.
+⚙️ **Під капотом: Інтегрований WindowInsetsControllerCompat та JS-ін'єкція для масштабування відео.
